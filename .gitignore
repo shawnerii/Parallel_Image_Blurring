@@ -1,0 +1,13 @@
+# Ignore output images and binaries
+Blurred_Single/
+Blurred_Multi/
+Images/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.exe
+image_bluring
+folder_blur
+.DS_Store
