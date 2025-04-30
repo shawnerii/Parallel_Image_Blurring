@@ -1,6 +1,4 @@
-Here is the full, properly formatted Markdown content. You can copy and paste this directly into your GitHub README.md file:
 
-⸻
 
 
 
