@@ -96,22 +96,3 @@ Parallel_Image_Blurring/
 ├── Report.pdf
 └── .gitignore
 
-
-
-⸻
-
- GitHub Cleanliness
-
-Output images and binaries are excluded from version control via .gitignore. Only source files and documentation are tracked.
-
-⸻
-
- Author
-
-Shayan
-
-GitHub Profile
-
----
-
-Paste this into your `README.md` file in GitHub’s online editor or in your local repo. Let me know if you want to add example output images or performance benchmarks too.
